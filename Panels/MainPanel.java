@@ -7,9 +7,7 @@ import javax.swing.*;
 import java.awt.event.*;
 import java.io.*;
 import javax.swing.filechooser.*;
-import java.awt.image.*;
 import javax.imageio.*;
-import java.math.RoundingMode;
 import java.text.DecimalFormat;
 
 public class MainPanel implements ActionListener {
